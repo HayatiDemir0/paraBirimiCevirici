@@ -5,10 +5,7 @@
 <p>Bu proje, farklı para birimleri arasında hızlı şekilde dönüşüm yapmayı sağlayan basit bir web uygulamasıdır. Kullanıcıdan miktar ve para birimleri alınır, ardından API üzerinden güncel döviz kurları çekilerek sonuç hesaplanır.</p>
 
 <h2>Özellikler</h2>
-USD, EUR ve TRY arasında anlık dönüşüm
-
+<p>USD, EUR ve TRY arasında anlık dönüşüm
 Güncel döviz verisiyle hesaplama
-
 Basit ve temiz arayüz
-
-JavaScript Fetch API kullanımı
+JavaScript Fetch API kullanımı</p>
