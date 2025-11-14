@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: #f2f5f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+
+header .baslik {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
+    color: #2d4a73;
+    font-weight: 700;
+}
+.input {
+    background: white;
+    padding: 25px;
+    width: 350px;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.input input {
+    padding: 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+.input input:focus {
+    border-color: #4c8bf5;
+    outline: none;
+}
+.input select {
+    padding: 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    background: #fff;
+    transition: 0.3s;
+}
+.input select:hover {
+    border-color: #4c8bf5;
+}
+#convertBtn {
+    padding: 14px;
+    background: #4c8bf5;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+#convertBtn:hover {
+    background: #3c74d8;
+}
+#result {
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    color: #2d4a73;
+    font-weight: 600;
+}
+@media (max-width: 420px) {
+    .input {
+        width: 90%;
+    }
+}

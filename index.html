@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Birimi - $-€-₺</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="baslik">
+            <h1>Döviz Boz</h1>
+        </div>
+    </header>
+
+    <div class="input">
+        <input id="amount" type="number" placeholder="Miktar Giriniz">
+
+        <select id="from">
+            <option value="USD">USD - $</option>
+            <option value="EUR">EUR - €</option>
+            <option value="TRY">TRY - ₺</option>
+        </select>
+        <select id="to">
+            <option value="USD">USD - $</option>
+            <option value="EUR">EUR - €</option>
+            <option value="TRY">TRY - ₺</option>
+        </select>
+
+        <button id="convertBtn" type="button">Çevir</button>
+
+        <p id="result"></p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
