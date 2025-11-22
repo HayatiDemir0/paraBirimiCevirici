@@ -12,7 +12,8 @@ Form verileri kullanıcıdan alınır ve **API üzerinden güncel döviz kurlar�
 | HTML5 | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | Sayfa yapısı, form ve arayüz |
 | CSS3 | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | Tasarım ve stil |
 | JavaScript | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | Döviz hesaplama ve API entegrasyonu |
-| Fetch API | ![API](https://upload.wikimedia.org/wikipedia/commons/1/17/JSON_Logo.png) | Güncel döviz kurlarını çekmek için |
+| Fetch API | ![API](https://upload.wikimedia.org/wikipedia/commons/9/9e/JSON_data_icon.png) | Güncel döviz kurlarını çekmek için |
+
 
 ---
 
