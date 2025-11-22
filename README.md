@@ -30,4 +30,4 @@ Form verileri kullanıcıdan alınır ve **API üzerinden güncel döviz kurlar�
 1. Repo’yu klonlayın:
 
 ```bash
-git clone https://github.com/HayatiDemirr/doviz-cevirici.git
+git clone https://github.com/HayatiDemir0/doviz-cevirici.git
